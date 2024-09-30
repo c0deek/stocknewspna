@@ -1,11 +1,11 @@
 {
-  "name": "chrome-extension-boilerplate-react",
-  "version": "5.0.4",
-  "description": "A chrome extension boilerplate built with React 18, Webpack 5, and Webpack Dev Server 4",
+  "name": "stocknewspna",
+  "version": "1.0.0",
+  "description": "Parse news and analyse the list the affected stocks",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lxieyang/chrome-extension-boilerplate-react.git"
+    "url": "https://github.com/c0deek/stocknewspna.git"
   },
   "scripts": {
     "build": "node utils/build.js",
